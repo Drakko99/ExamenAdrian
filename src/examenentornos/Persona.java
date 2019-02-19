@@ -1,5 +1,4 @@
 /*Este codigo define la clase Persona y la clase Prefesor como una extension de la primera
-
 El codigo ha sido hecho por Carlos Hernandez en mayo del 2019 */
 package examenentornos;
 /**
